@@ -1,5 +1,8 @@
 # HR Analysis Repository
 
+### Dashboard:- 
+![Screenshot 2024-02-16 123931](https://github.com/Seshu-Yash/HR-Analysis-Project/assets/137307079/7a169306-41cd-4c1c-9b80-2fd6ab34b54f)
+
 Welcome to the HR Analysis repository, where we delve into comprehensive insights using SQL, PowerBI, and Excel. Our analysis focuses on Attrition, Compensation, and Workforce Dynamics, providing valuable information for strategic decision-making.
 
 ## Key Findings
